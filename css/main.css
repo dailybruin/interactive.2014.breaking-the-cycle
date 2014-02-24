@@ -66,6 +66,7 @@ margin: 0;
 	float: right;
 }
 
+
 figcaption {
 	float: right;
 	font-size: 1.2em;
@@ -78,8 +79,8 @@ STRUCTURE
 table {
 	background-color: white;
 	border-top: 5px solid;
-	border-bottom: 5px solid;
 	border-color: #777;
+	margin-bottom: none;
 }
 
 .post { 
